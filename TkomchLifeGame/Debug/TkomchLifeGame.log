@@ -1,0 +1,6 @@
+﻿  LifeGame.c
+e:\workspace\cplusproject\source\repos\tkomchlifegame\tkomchlifegame\lifegame.h(61): warning C4133: “初始化”: 从“char [2]”到“wchar_t *”的类型不兼容
+e:\workspace\cplusproject\source\repos\tkomchlifegame\tkomchlifegame\lifegame.h(63): warning C4133: “初始化”: 从“char [1]”到“wchar_t *”的类型不兼容
+e:\workspace\cplusproject\source\repos\tkomchlifegame\tkomchlifegame\lifegame.h(63): warning C4133: “初始化”: 从“char [2]”到“wchar_t *”的类型不兼容
+e:\workspace\cplusproject\source\repos\tkomchlifegame\tkomchlifegame\lifegame.c(318): warning C4133: “函数”: 从“SDL_Surface *”到“SDL_Texture *”的类型不兼容
+  TkomchLifeGame.vcxproj -> E:\Workspace\CPlusProject\source\repos\TkomchLifeGame\Debug\TkomchLifeGame.exe
